@@ -113,7 +113,7 @@ sys.stdout = sys.stderr
 sys.path.insert(0,"/var/www/fullstack-nanodegree-vm/vagrant/catalog/")
 os.chdir("/var/www/fullstack-nanodegree-vm/vagrant/catalog/")
 from project import app as application
-
+application.secret_key = 'super_secret_key'
 ```
 
 ## Tools installed
