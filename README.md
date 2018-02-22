@@ -11,7 +11,7 @@ login to the server by
 
 ```
 ssh grader@35.229.70.136  -p 2200        
-
+grader password : geek1234
 ```
 # Configurations
 
