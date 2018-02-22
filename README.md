@@ -108,7 +108,6 @@ import sys
 import os
 import logging
 logging.basicConfig(stream=sys.stderr)
-##Replace the standard out
 sys.stdout = sys.stderr
 sys.path.insert(0,"/var/www/fullstack-nanodegree-vm/vagrant/catalog/")
 os.chdir("/var/www/fullstack-nanodegree-vm/vagrant/catalog/")
