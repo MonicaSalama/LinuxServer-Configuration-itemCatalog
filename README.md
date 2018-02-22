@@ -5,7 +5,7 @@ IP address: 35.229.70.136
 
 SSH port: `2200`
 
-URL: http://35.229.70.136/
+URL: http://35.229.70.136.xip.io/
 
 login to the server by
 
